@@ -1,37 +1,37 @@
-<h1 align="center">Hi，我是 Frank-Loong 👋</h1>
+<h1 align="center">Hi, I'm Frank-Loong 👋</h1>
 
 <p align="center">
-  <a href="https://frankloong.com" target="_blank"><img src="https://img.shields.io/badge/Blog-个人网站-ff8800?style=for-the-badge&logo=wordpress&logoColor=white"></a>
-  <a href="mailto:frankloong@qq.com"><img src="https://img.shields.io/badge/Mail-联系我-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+  <a href="https://frankloong.com" target="_blank"><img src="https://img.shields.io/badge/Blog-Website-ff8800?style=for-the-badge&logo=wordpress&logoColor=white"></a>
+  <a href="mailto:frankloong@qq.com"><img src="https://img.shields.io/badge/Mail-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
   <img src="https://komarev.com/ghpvc/?username=Frank-Loong&style=for-the-badge&color=8A2BE2" alt="profile views" />
 </p>
 
-> ✨ AI、科技 & 互联网 爱好者 · ⛰️ 强迫症患者 · 🏆 开源拥护者  
-> 喜欢用 **AI + 编码** 做有趣的小工具，记录自己的折腾历程，热爱开源社区～
+> ✨ AI, tech & internet enthusiast · ⛰️ Perfectionist · 🏆 Open-source advocate  
+> I enjoy building fun gadgets with **AI + code**, documenting my experiments, and contributing to the open-source community.
 
 ---
 
-## 🙋‍♂️ 关于我
+## 🙋‍♂️ About&nbsp;Me
 
-- 🔭 热爱探索开源与自动化，持续折腾各种有趣项目  
-- 🌱 正在学习 **控制工程 / Python / Java / Go / C / C++ / Linux，etc** 
-- 💬 欢迎来聊 **AI Prompt、计算机、互联网、数码、电子、摄影、自动化，etc**  
-- 🎯 终极目标：让每个人都可以用代码创造自己想要的生活
-
----
-
-## 🚀 精选项目
-
-| 项目 | 描述 | 技术栈 | Star |
-| ---- | ---- | ------ | ---- |
-| [Footprint-Map](https://github.com/Frank-Loong/Footprint-Map) | 🌏 高德地图 API 足迹展示插件，记录你走过的城市 | PHP · JS · WordPress | ![GitHub Repo stars](https://img.shields.io/github/stars/Frank-Loong/Footprint-Map?style=social) |
+- 🔭 Passionate about open-source & automation; always tinkering with interesting side projects  
+- 🌱 Currently diving into **Control Engineering / Python / Java / Go / C / C++ / Linux, etc.**  
+- 💬 Happy to chat about **AI prompts, computers, the internet, gadgets, electronics, photography, automation, etc.**  
+- 🎯 Ultimate goal: empower everyone to craft the life they want through code.
 
 ---
 
-## 🛠️ 常用工具 & 技术栈
+## 🚀 Featured&nbsp;Projects
+
+| Project | Description | Tech&nbsp;Stack | Stars |
+| ------- | ----------- | ---------- | ----- |
+| [Footprint-Map](https://github.com/Frank-Loong/Footprint-Map) | 🌏 Amap (Gaode) API footprint plugin that visualises every city you've visited | PHP · JS · WordPress | ![GitHub Repo stars](https://img.shields.io/github/stars/Frank-Loong/Footprint-Map?style=social) |
+
+---
+
+## 🛠️ Tech&nbsp;Stack&nbsp;&amp;&nbsp;Tools
 
 <p>
-  <!-- 编程语言 -->
+  <!-- Languages -->
   <img src="https://img.shields.io/badge/-Java-007396?style=flat&logo=openjdk&logoColor=white">
   <img src="https://img.shields.io/badge/-PHP-777bb4?style=flat&logo=php&logoColor=white">
   <img src="https://img.shields.io/badge/-JavaScript-f7df1e?style=flat&logo=javascript&logoColor=black">
@@ -39,16 +39,16 @@
   <img src="https://img.shields.io/badge/-C++-00599c?style=flat&logo=c%2b%2b&logoColor=white">
   <img src="https://img.shields.io/badge/-Go-00add8?style=flat&logo=go&logoColor=white">
 
-  <!-- 框架 / 平台 -->
+  <!-- Frameworks / Platforms -->
   <img src="https://img.shields.io/badge/-React-61dafb?style=flat&logo=react&logoColor=black">
   <img src="https://img.shields.io/badge/-MySQL-4479a1?style=flat&logo=mysql&logoColor=white">
 
-  <!-- 工具 -->
+  <!-- Tools -->
   <img src="https://img.shields.io/badge/-Git-f05032?style=flat&logo=git&logoColor=white">
   <img src="https://img.shields.io/badge/-Linux-fcc624?style=flat&logo=linux&logoColor=black">
-  <img src="https://img.shields.io/badge/-Fiddler-0086B3?style=flat&logo=windows&logoColor=white"> <!-- Fiddler 无官方 logo，使用 Windows 图标占位 -->
+  <img src="https://img.shields.io/badge/-Fiddler-0086B3?style=flat&logo=windows&logoColor=white">
 
-  <!-- AI / 编辑器 -->
+  <!-- AI / Editors -->
   <img src="https://img.shields.io/badge/-Cursor-4C8EDA?style=flat&logo=data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMzIiIGhlaWdodD0iMzIiIHZpZXdCb3g9IjAgMCAzMiAzMiIgZmlsbD0ibm9uZSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj48cGF0aCBkPSJNNSAxNkwyOCAzTDE1IDE1TDExIDE5TDEzIDI3TDUgMTZaIiBmaWxsPSIjZmZmZmZmIi8+PC9zdmc+">
   <img src="https://img.shields.io/badge/-ChatGPT-00a67e?style=flat&logo=openai&logoColor=white">
 </p>
@@ -65,7 +65,7 @@
 
 ---
 
-## 📈 GitHub 统计
+## 📈 GitHub&nbsp;Stats
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Frank-Loong&show_icons=true&theme=tokyonight&border_radius=10&count_private=true" height="165" style="width: 32%; min-width: 250px;" />
@@ -75,7 +75,7 @@
 
 ---
 
-## 🏆 GitHub 奖杯
+## 🏆 GitHub&nbsp;Trophies
 
 <p align="center">
   <picture>
