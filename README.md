@@ -1,9 +1,9 @@
 <h1 align="center">Hi，我是 Frank-Loong 👋</h1>
 
 <p align="center">
-  <a href="https://frankloong.com" target="_blank"><img src="https://img.shields.io/badge/Blog-个人网站-ff69b4?style=for-the-badge&logo=wordpress"></a>
-  <a href="mailto:frankloong@qq.com"><img src="https://img.shields.io/badge/Mail-联系我-blue?style=for-the-badge&logo=gmail"></a>
-  <img src="https://komarev.com/ghpvc/?username=Frank-Loong&style=for-the-badge" alt="profile views" />
+  <a href="https://frankloong.com" target="_blank"><img src="https://img.shields.io/badge/Blog-个人网站-ff8800?style=for-the-badge&logo=wordpress&logoColor=white"></a>
+  <a href="mailto:frankloong@qq.com"><img src="https://img.shields.io/badge/Mail-联系我-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+  <img src="https://komarev.com/ghpvc/?username=Frank-Loong&style=for-the-badge&color=8A2BE2" alt="profile views" />
 </p>
 
 > ✨ AI、科技 & 互联网 爱好者 · ⛰️ 强迫症患者 · 🏆 开源拥护者  
@@ -65,16 +65,13 @@
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=Frank-Loong&theme=tokyonight&hide_border=true&border_radius=10" />
+  <img src="https://streak-stats.demolab.com/?user=Frank-Loong&theme=tokyonight&hide_border=true&border_radius=10" height="150" />
 </p>
-
----
 
 ## 📰 最新动态
 
 <!-- 活动源：issues / PR / stars / forks -->
-<!-- 使用 GitHub Readme Activity 生成 -->
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Frank-Loong&theme=tokyo-night&area=true&hide_border=true" alt="activity graph">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Frank-Loong&theme=tokyo-night&area=true&hide_border=true" alt="activity graph" width="100%">
 
 ---
 
@@ -86,16 +83,10 @@
 
 ---
 
-## ☕ 支持我
-
-如果我的开源项目帮到你，欢迎来一杯 ☕：
-
-[![Buy Me A Coffee](https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png)](https://buymeacoffee.com/frankloong)
-
----
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Frank-Loong/Frank-Loong/output/github-snake-dark.svg" width="100%" />
-</p>
-
-<!-- 以上蛇形贡献动图需在 workflow 中使用 Platane/snk 生成 -->
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Frank-Loong/Frank-Loong/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Frank-Loong/Frank-Loong/output/github-snake.svg" />
+    <img alt="github-snake" src="https://raw.githubusercontent.com/Frank-Loong/Frank-Loong/output/github-snake.svg" width="100%" />
+  </picture>
+</div>
