@@ -7,7 +7,7 @@
 </p>
 
 > ✨ AI, tech & internet enthusiast · ⛰️ Perfectionist · 🏆 Open-source advocate  
-> I enjoy building fun gadgets with **AI + code**, documenting my experiments, and contributing to the open-source community.
+> I enjoy building fun small tools  with **AI + code**, documenting my experiments, and contributing to the open-source community.
 
 ---
 
