@@ -14,12 +14,12 @@ jobs:
         uses: actions/checkout@v3
 
       - name: Generate snake SVG
-        uses: Platane/snk@master
+        uses: Platane/snk/svg-only@v3
         with:
           github_user_name: Frank-Loong
           outputs: |
             output/github-snake.svg
-            output/github-snake-dark.svg
+            output/github-snake-dark.svg?palette=github-dark
 
       - name: Commit snake files
         run: |
