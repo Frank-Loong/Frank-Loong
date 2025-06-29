@@ -74,11 +74,6 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Frank-Loong&layout=compact&hide=html,css&theme=tokyonight&border_radius=10" height="165" style="width: 32%; min-width: 250px;" />
 </div>
 
-## 📰 最新动态
-
-<!-- 活动源：issues / PR / stars / forks -->
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Frank-Loong&theme=tokyo-night&area=true&hide_border=true" alt="activity graph" width="100%">
-
 ---
 
 ## 🏆 GitHub 奖杯
