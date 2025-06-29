@@ -56,32 +56,6 @@
 
 ---
 
-## 📈 GitHub 统计
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Frank-Loong&show_icons=true&theme=tokyonight&border_radius=10&count_private=true" height="165">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Frank-Loong&layout=compact&hide=html,css&theme=tokyonight&border_radius=10" height="165">
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=Frank-Loong&theme=tokyonight&hide_border=true&border_radius=10" height="150" />
-</p>
-
-## 📰 最新动态
-
-<!-- 活动源：issues / PR / stars / forks -->
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Frank-Loong&theme=tokyo-night&area=true&hide_border=true" alt="activity graph" width="100%">
-
----
-
-## 🏆 GitHub 奖杯
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Frank-Loong&theme=onestar&column=7&no-frame=true&no-bg=true"/>
-</p>
-
----
-
 <div align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Frank-Loong/Frank-Loong/main/output/github-snake-dark.svg" />
@@ -89,3 +63,30 @@
     <img alt="github-snake" src="https://raw.githubusercontent.com/Frank-Loong/Frank-Loong/main/output/github-snake.svg" width="100%" />
   </picture>
 </div>
+
+---
+
+## 📈 GitHub 统计
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Frank-Loong&show_icons=true&theme=tokyonight&border_radius=10&count_private=true" height="165">
+  <img src="https://streak-stats.demolab.com/?user=Frank-Loong&theme=tokyonight&hide_border=true&border_radius=10" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Frank-Loong&layout=compact&hide=html,css&theme=tokyonight&border_radius=10" height="165">
+</p>
+
+## 📰 最新动态
+
+<!-- 活动源：issues / PR / stars / forks -->
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Frank-Loong&theme=tokyo-night&area=true&hide_border=true" alt="activity graph" width="80%">
+
+---
+
+## 🏆 GitHub 奖杯
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-trophy.vercel.app/?username=Frank-Loong&theme=darkhub&column=7&no-frame=true" />
+    <source media="(prefers-color-scheme: light)" srcset="https://github-profile-trophy.vercel.app/?username=Frank-Loong&theme=flat&column=7&no-frame=true" />
+    <img alt="GitHub Trophy" src="https://github-profile-trophy.vercel.app/?username=Frank-Loong&theme=flat&column=7&no-frame=true" />
+  </picture>
+</p>
