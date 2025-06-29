@@ -52,7 +52,6 @@
   <!-- AI / 编辑器 -->
   <img src="https://img.shields.io/badge/-Cursor-4C8EDA?style=flat&logo=data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMzIiIGhlaWdodD0iMzIiIHZpZXdCb3g9IjAgMCAzMiAzMiIgZmlsbD0ibm9uZSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj48cGF0aCBkPSJNNSAxNkwyOCAzTDE1IDE1TDExIDE5TDEzIDI3TDUgMTZaIiBmaWxsPSIjZmZmZmZmIi8+PC9zdmc+">
   <img src="https://img.shields.io/badge/-ChatGPT-00a67e?style=flat&logo=openai&logoColor=white">
-  <img src="https://img.shields.io/badge/-Android%20Studio-3DDC84?style=flat&logo=android-studio&logoColor=white">
 </p>
 
 ---
