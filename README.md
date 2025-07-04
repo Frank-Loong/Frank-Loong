@@ -16,7 +16,7 @@
 - 🔭 Passionate about open-source & automation; always tinkering with interesting side projects  
 - 🌱 Currently diving into **Control Engineering / Python / Java / Go / C / C++ / Linux, etc.**  
 - 💬 Happy to chat about **AI prompts, computers, the internet, gadgets, electronics, photography, automation, etc.**  
-- 🎯 Ultimate goal: empower everyone to craft the life they want through code.
+- 🎯 Ultimate goal: Empower everyone to craft the life they want through code.
 
 ---
 
