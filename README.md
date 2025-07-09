@@ -68,6 +68,8 @@
 
 ---
 
+## 🐍 Contribution Snake
+
 <div align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Frank-Loong/Frank-Loong/main/output/github-snake-dark.svg" />
