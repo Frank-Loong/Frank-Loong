@@ -34,12 +34,12 @@
   <img src="https://img.shields.io/badge/%F0%9F%A7%91-Brain-ffb347?style=flat"/>
   <img src="https://img.shields.io/badge/%F0%9F%91%8B-Hand-90ee90?style=flat"/>
   <img src="https://img.shields.io/badge/-ChatGPT-00a67e?style=flat&logo=openai&logoColor=white"/>
-  <img src="https://img.shields.io/badge/-Claude-ffb300?style=flat&logo=data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMzIiIGhlaWdodD0iMzIiIHZpZXdCb3g9IjAgMCAzMiAzMiIgZmlsbD0ibm9uZSIgeG1zbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj48Y2lyY2xlIGN4PSIxNiIgY3k9IjE2IiByPSIxNiIgZmlsbD0iI2ZmYjMwMCIvPjwvc3ZnPg=="/>
-  <img src="https://img.shields.io/badge/Copilot-4C8EDA?style=flat&logo=githubcopilot&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-Claude-ffb300?style=flat&logo=anthropic&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-Copilot-4C8EDA?style=flat&logo=githubcopilot&logoColor=white"/>
   <img src="https://img.shields.io/badge/-Gemini-4285F4?style=flat&logo=google&logoColor=white"/>
-  <img src="https://img.shields.io/badge/-DeepSeek-00BFFF?style=flat&logo=data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMzIiIGhlaWdodD0iMzIiIHZpZXdCb3g9IjAgMCAzMiAzMiIgZmlsbD0ibm9uZSIgeG1zbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj48Y2lyY2xlIGN4PSIxNiIgY3k9IjE2IiByPSIxNiIgZmlsbD0iIzAwQkZGRiIvPjwvc3ZnPg=="/>
-  <img src="https://img.shields.io/badge/-Grok-ff69b4?style=flat&logo=data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMzIiIGhlaWdodD0iMzIiIHZpZXdCb3g9IjAgMCAzMiAzMiIgZmlsbD0ibm9uZSIgeG1zbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj48Y2lyY2xlIGN4PSIxNiIgY3k9IjE2IiByPSIxNiIgZmlsbD0iI2ZmNjliNCIvPjwvc3ZnPg=="/>
-  <img src="https://img.shields.io/badge/-Cursor-4C8EDA?style=flat&logo=data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMzIiIGhlaWdodD0iMzIiIHZpZXdCb3g9IjAgMCAzMiAzMiIgZmlsbD0ibm9uZSIgeG1zbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj48cGF0aCBkPSJNNSAxNkwyOCAzTDE1IDE1TDExIDE5TDEzIDI3TDUgMTZaIiBmaWxsPSIjZmZmZmZmIi8+PC9zdmc+"/>
+  <img src="https://img.shields.io/badge/-DeepSeek-00BFFF?style=flat&logo=deepnote&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-Grok-ff69b4?style=flat&logo=bolt&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-Cursor-4C8EDA?style=flat&logo=cursor&logoColor=white"/>
   <img src="https://img.shields.io/badge/-Augment-00C49A?style=flat"/>
   <img src="https://img.shields.io/badge/-Trae-FF9800?style=flat"/>
   <img src="https://img.shields.io/badge/-etc-888?style=flat"/>
@@ -53,14 +53,16 @@
   <img src="https://img.shields.io/badge/-Java-007396?style=flat&logo=openjdk&logoColor=white">
   <img src="https://img.shields.io/badge/-PHP-777bb4?style=flat&logo=php&logoColor=white">
   <img src="https://img.shields.io/badge/-JavaScript-f7df1e?style=flat&logo=javascript&logoColor=black">
+  <img src="https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white">
+  <img src="https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white">
   <img src="https://img.shields.io/badge/-Python-3776ab?style=flat&logo=python&logoColor=white">
   <img src="https://img.shields.io/badge/-C++-00599c?style=flat&logo=c%2b%2b&logoColor=white">
   <img src="https://img.shields.io/badge/-Go-00add8?style=flat&logo=go&logoColor=white">
   <img src="https://img.shields.io/badge/-React-61dafb?style=flat&logo=react&logoColor=black">
   <img src="https://img.shields.io/badge/-MySQL-4479a1?style=flat&logo=mysql&logoColor=white">
+  <img src="https://img.shields.io/badge/-Redis-DC382D?style=flat&logo=redis&logoColor=white">
   <img src="https://img.shields.io/badge/-Git-f05032?style=flat&logo=git&logoColor=white">
   <img src="https://img.shields.io/badge/-Linux-fcc624?style=flat&logo=linux&logoColor=black">
-  <img src="https://img.shields.io/badge/-Fiddler-0086B3?style=flat&logo=windows&logoColor=white">
   <img src="https://img.shields.io/badge/-etc-888?style=flat"/>
 </p>
 
