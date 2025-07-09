@@ -33,12 +33,12 @@
 <p align="center" style="display:flex; flex-wrap:wrap; gap:6px; justify-content:center; align-items:center;">
   <img src="https://img.shields.io/badge/%F0%9F%A7%91-Brain-ffb347?style=flat"/>
   <img src="https://img.shields.io/badge/%F0%9F%91%8B-Hand-90ee90?style=flat"/>
-  <img src="https://img.shields.io/badge/AI-ChatGPT-00a67e?style=flat&logo=openai&logoColor=white"/>
-  <img src="https://img.shields.io/badge/AI-Claude-ffb300?style=flat&logo=data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMzIiIGhlaWdodD0iMzIiIHZpZXdCb3g9IjAgMCAzMiAzMiIgZmlsbD0ibm9uZSIgeG1zbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj48Y2lyY2xlIGN4PSIxNiIgY3k9IjE2IiByPSIxNiIgZmlsbD0iI2ZmYjMwMCIvPjwvc3ZnPg=="/>
-  <img src="https://img.shields.io/badge/AI-Copilot-4C8EDA?style=flat&logo=githubcopilot&logoColor=white"/>
-  <img src="https://img.shields.io/badge/AI-Gemini-4285F4?style=flat&logo=google&logoColor=white"/>
-  <img src="https://img.shields.io/badge/AI-DeepSeek-00BFFF?style=flat&logo=data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMzIiIGhlaWdodD0iMzIiIHZpZXdCb3g9IjAgMCAzMiAzMiIgZmlsbD0ibm9uZSIgeG1zbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj48Y2lyY2xlIGN4PSIxNiIgY3k9IjE2IiByPSIxNiIgZmlsbD0iIzAwQkZGRiIvPjwvc3ZnPg=="/>
-  <img src="https://img.shields.io/badge/AI-Grok-ff69b4?style=flat&logo=data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMzIiIGhlaWdodD0iMzIiIHZpZXdCb3g9IjAgMCAzMiAzMiIgZmlsbD0ibm9uZSIgeG1zbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj48Y2lyY2xlIGN4PSIxNiIgY3k9IjE2IiByPSIxNiIgZmlsbD0iI2ZmNjliNCIvPjwvc3ZnPg=="/>
+  <img src="https://img.shields.io/badge/-ChatGPT-00a67e?style=flat&logo=openai&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-Claude-ffb300?style=flat&logo=data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMzIiIGhlaWdodD0iMzIiIHZpZXdCb3g9IjAgMCAzMiAzMiIgZmlsbD0ibm9uZSIgeG1zbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj48Y2lyY2xlIGN4PSIxNiIgY3k9IjE2IiByPSIxNiIgZmlsbD0iI2ZmYjMwMCIvPjwvc3ZnPg=="/>
+  <img src="https://img.shields.io/badge/Copilot-4C8EDA?style=flat&logo=githubcopilot&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-Gemini-4285F4?style=flat&logo=google&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-DeepSeek-00BFFF?style=flat&logo=data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMzIiIGhlaWdodD0iMzIiIHZpZXdCb3g9IjAgMCAzMiAzMiIgZmlsbD0ibm9uZSIgeG1zbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj48Y2lyY2xlIGN4PSIxNiIgY3k9IjE2IiByPSIxNiIgZmlsbD0iIzAwQkZGRiIvPjwvc3ZnPg=="/>
+  <img src="https://img.shields.io/badge/-Grok-ff69b4?style=flat&logo=data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMzIiIGhlaWdodD0iMzIiIHZpZXdCb3g9IjAgMCAzMiAzMiIgZmlsbD0ibm9uZSIgeG1zbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj48Y2lyY2xlIGN4PSIxNiIgY3k9IjE2IiByPSIxNiIgZmlsbD0iI2ZmNjliNCIvPjwvc3ZnPg=="/>
   <img src="https://img.shields.io/badge/-Cursor-4C8EDA?style=flat&logo=data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMzIiIGhlaWdodD0iMzIiIHZpZXdCb3g9IjAgMCAzMiAzMiIgZmlsbD0ibm9uZSIgeG1zbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj48cGF0aCBkPSJNNSAxNkwyOCAzTDE1IDE1TDExIDE5TDEzIDI3TDUgMTZaIiBmaWxsPSIjZmZmZmZmIi8+PC9zdmc+"/>
   <img src="https://img.shields.io/badge/-Augment-00C49A?style=flat"/>
   <img src="https://img.shields.io/badge/-Trae-FF9800?style=flat"/>
@@ -61,6 +61,7 @@
   <img src="https://img.shields.io/badge/-Git-f05032?style=flat&logo=git&logoColor=white">
   <img src="https://img.shields.io/badge/-Linux-fcc624?style=flat&logo=linux&logoColor=black">
   <img src="https://img.shields.io/badge/-Fiddler-0086B3?style=flat&logo=windows&logoColor=white">
+  <img src="https://img.shields.io/badge/-etc-888?style=flat"/>
 </p>
 
 ---
