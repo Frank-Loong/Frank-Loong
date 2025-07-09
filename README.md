@@ -24,6 +24,7 @@
 
 | Project | Description | Tech&nbsp;Stack | Stars |
 | ------- | ----------- | ---------- | ----- |
+| [Notion-to-WordPress](https://github.com/Frank-Loong/Notion-to-WordPress) | 📝 Effortlessly sync Notion pages to WordPress posts with one click | Python · Notion API · WordPress | ![GitHub Repo stars](https://img.shields.io/github/stars/Frank-Loong/Notion-to-WordPress?style=social) |
 | [Footprint-Map](https://github.com/Frank-Loong/Footprint-Map) | 🌏 Amap (Gaode) API footprint plugin that visualises every city you've visited | PHP · JS · WordPress | ![GitHub Repo stars](https://img.shields.io/github/stars/Frank-Loong/Footprint-Map?style=social) |
 
 ---
