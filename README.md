@@ -33,7 +33,7 @@
 
 <p align="center" style="display:flex; flex-wrap:wrap; gap:6px; justify-content:center; align-items:center;">
   <img src="https://img.shields.io/badge/%F0%9F%A7%91-Brain-ffb347?style=flat"/>
-  <img src="https://img.shields.io/badge/%F0%9F%91%8B-Hand-90ee90?style=flat"/>
+  <img src="https://img.shields.io/badge/%F0%9F%91%8B-Hands-90ee90?style=flat"/>
   <img src="https://img.shields.io/badge/-ChatGPT-00a67e?style=flat&logo=openai&logoColor=white"/>
   <img src="https://img.shields.io/badge/-Claude-ffb300?style=flat&logo=anthropic&logoColor=white"/>
   <img src="https://img.shields.io/badge/-Copilot-4C8EDA?style=flat&logo=githubcopilot&logoColor=white"/>
