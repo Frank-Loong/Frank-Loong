@@ -39,18 +39,18 @@
 
 <p align="center"><em>My AI-powered creative toolkit...</em></p>
 <p align="center" style="display:flex; flex-wrap:wrap; gap:6px; justify-content:center; align-items:center;">
-  <img src="https://img.shields.io/badge/%F0%9F%A7%91-Brain-ffb347?style=flat-square"/>
-  <img src="https://img.shields.io/badge/%F0%9F%91%8B-Hands-90ee90?style=flat-square"/>
-  <img src="https://img.shields.io/badge/-ChatGPT-00a67e?style=flat-square&logo=openai&logoColor=white"/>
-  <img src="https://img.shields.io/badge/-Claude-ffb300?style=flat-square&logo=anthropic&logoColor=white"/>
-  <img src="https://img.shields.io/badge/-Copilot-4C8EDA?style=flat-square&logo=githubcopilot&logoColor=white"/>
-  <img src="https://img.shields.io/badge/-Gemini-4285F4?style=flat-square&logo=google&logoColor=white"/>
-  <img src="https://img.shields.io/badge/-DeepSeek-00BFFF?style=flat-square&logo=deepnote&logoColor=white"/>
-  <img src="https://img.shields.io/badge/-Grok-ff69b4?style=flat-square&logo=bolt&logoColor=white"/>
-  <img src="https://img.shields.io/badge/-Cursor-4C8EDA?style=flat-square&logo=cursor&logoColor=white"/>
-  <img src="https://img.shields.io/badge/-Augment-00C49A?style=flat-square"/>
-  <img src="https://img.shields.io/badge/-Trae-FF9800?style=flat-square"/>
-  <img src="https://img.shields.io/badge/-etc-888?style=flat-square"/>
+<img src="https://img.shields.io/badge/%F0%9F%A7%91-Brain-ffb347?style=flat-square"/>
+<img src="https://img.shields.io/badge/%F0%9F%91%8B-Hands-90ee90?style=flat-square"/>
+<img src="https://img.shields.io/badge/-ChatGPT-00a67e?style=flat-square&logo=openai&logoColor=white"/>
+<img src="https://img.shields.io/badge/-Claude-ffb300?style=flat-square&logo=anthropic&logoColor=white"/>
+<img src="https://img.shields.io/badge/-Copilot-4C8EDA?style=flat-square&logo=githubcopilot&logoColor=white"/>
+<img src="https://img.shields.io/badge/-Gemini-4285F4?style=flat-square&logo=google&logoColor=white"/>
+<img src="https://img.shields.io/badge/-DeepSeek-00BFFF?style=flat-square"/>
+<img src="https://img.shields.io/badge/-Grok-ff69b4?style=flat-square"/>
+<img src="https://img.shields.io/badge/-Cursor-4C8EDA?style=flat-square"/>
+<img src="https://img.shields.io/badge/-Augment-007BFF?style=flat-square"/>
+<img src="https://img.shields.io/badge/-Trae-FF4A36?style=flat-square"/>
+<img src="https://img.shields.io/badge/-etc-888?style=flat-square"/>
 </p>
 
 <p align="center" style="color:gray;font-style:italic;">
@@ -94,19 +94,3 @@
     <img alt="github-snake" src="https://raw.githubusercontent.com/Frank-Loong/Frank-Loong/main/output/github-snake.svg" width="100%" />
   </picture>
 </div>
-
----
-
-### <p align="center">🌍 Let's Connect!</p>
-
-<p align="center">
-  <img src="https://github-readme-spotify-gold.vercel.app/api/spotify?username=frank_loong&theme=compact" alt="Spotify Now Playing" width="350">
-</p>
-
-<p align="center">
-  <a href="https://revolvermaps.com/livestats/5p17p9hvlpr/"><img src="https://rf.revolvermaps.com/h/m/a/0/ff0000/128/0/5p17p9hvlpr.png" width="380" height="216" alt="Live Stats" style="border:0;"></a>
-</p>
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Frank-Loong/Frank-Loong/main/output/contrib-globe.svg" alt="3D Contributor Globe" width="600">
-</p>
