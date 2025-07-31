@@ -1,87 +1,91 @@
-<a name="top"></a>
+<div align="center">
+  <h1 align="center">Hi, I'm Frank-Loong 👋</h1>
 
-<h1 align="center">Hi, I'm Frank-Loong 👋</h1>
+  <p align="center">
+    <a href="https://frankloong.com" target="_blank"><img src="https://img.shields.io/badge/Blog-Website-ff8800?style=flat-square&logo=wordpress&logoColor=white"></a>
+    <a href="mailto:frankloong@qq.com"><img src="https://img.shields.io/badge/Mail-Contact-D14836?style=flat-square&logo=gmail&logoColor=white"></a>
+    <a href="https://t.me/frankkloong" target="_blank"><img src="https://img.shields.io/badge/Telegram-frankkloong-2CA5E0?style=flat-square&logo=telegram&logoColor=white"></a>
+    <a href="https://github.com/Frank-Loong"><img src="https://komarev.com/ghpvc/?username=Frank-Loong&style=flat-square&color=8A2BE2" alt="profile views" /></a>
+  </p>
 
-<p align="center">
-  <a href="https://frankloong.com" target="_blank">
-    <img src="https://img.shields.io/badge/Blog-Website-ff8800?style=flat&logo=wordpress&logoColor=white">
-  </a>
-  <a href="mailto:frankloong@qq.com">
-    <img src="https://img.shields.io/badge/Mail-Contact-D14836?style=flat&logo=gmail&logoColor=white">
-  </a>
-  <a href="https://t.me/frankkloong" target="_blank">
-    <img src="https://img.shields.io/badge/Telegram-frankkloong-2CA5E0?style=flat&logo=telegram&logoColor=white">
-  </a>
-  <img src="https://komarev.com/ghpvc/?username=Frank-Loong&style=flat&color=8A2BE2" alt="profile views" />
-</p>
-
-<p align="center">
-  ✨ AI, tech & internet enthusiast · ⛰️ Perfectionist · 🏆 Open-source advocate  
-  <br>
-  I enjoy building fun small tools with AI + code, documenting my experiments, and contributing to the open-source community.
-</p>
+  <p align="center">
+    ✨ AI, tech & internet enthusiast · ⛰️ Perfectionist · 🏆 Open-source advocate  
+    <br>
+    I enjoy building fun small tools with AI + code, documenting my experiments, and contributing to the open-source community.
+  </p>
+</div>
 
 ---
 
-## 🙋‍♂️ About Me
+### <p align="center">🙋‍♂️ About Me</p>
 
-- 🔭 Passionate about open-source & automation; always tinkering with interesting side projects  
-- 🌱 Currently diving into **Control Engineering / Python / Java / Go / C / C++ / Linux, etc.**  
-- 💬 Happy to chat about **AI prompts, computers, the internet, gadgets, electronics, photography, automation, etc.**  
-- 🎯 Ultimate goal: Empower everyone to craft the life they want through code.
-
----
-
-## 🚀 Featured Projects
-
-| Project                                                                                                                      | Description                                                   | Tech Stack                         | Stars                                                                                                                                 |
-| ---------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------- | ---------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------- |
-| [Notion-to-WordPress](https://github.com/Frank-Loong/Notion-to-WordPress)                                                     | 📝 Effortlessly sync Notion pages to WordPress posts with one click | PHP · JS · Notion API · WordPress  | ![GitHub Repo stars](https://img.shields.io/github/stars/Frank-Loong/Notion-to-WordPress?style=social)                                 |
-| [Footprint-Map](https://github.com/Frank-Loong/Footprint-Map)                                                                 | 🌏 Amap (Gaode) API footprint plugin that visualises every city you've visited | PHP · JS · WordPress              | ![GitHub Repo stars](https://img.shields.io/github/stars/Frank-Loong/Footprint-Map?style=social)                                        |
+- 🔭 Passionate about **open-source & automation**; always tinkering with interesting side projects.  
+- 🌱 Currently diving into **Control Engineering / Python / Java / Go / C / C++ / Linux, etc**.  
+- 💬 Happy to chat about **AI prompts, computers, the internet, gadgets, electronics, photography, automation, etc**.  
+- 🎯 Ultimate goal: **Empower everyone to craft the life they want through code**.
 
 ---
 
-## 🛠️ Tech Stack & Tools
+### <p align="center">🚀 Featured Projects</p>
 
+| Project | Description | Tech Stack | Stars |
+|---|---|---|---|
+| [Notion-to-WordPress](https://github.com/Frank-Loong/Notion-to-WordPress) | 📝 Effortlessly sync Notion pages to WordPress posts with one click | PHP · JS · Notion API · WordPress | ![GitHub Repo stars](https://img.shields.io/github/stars/Frank-Loong/Notion-to-WordPress?style=social) |
+| [Footprint-Map](https://github.com/Frank-Loong/Footprint-Map) | 🌏 A footprint map plugin that visualises every city you've visited | PHP · JS · WordPress | ![GitHub Repo stars](https://img.shields.io/github/stars/Frank-Loong/Footprint-Map?style=social) |
+
+---
+
+### <p align="center">🛠️ Tech Stack & Tools</p>
+
+<p align="center"><em>My AI-powered creative toolkit...</em></p>
 <p align="center" style="display:flex; flex-wrap:wrap; gap:6px; justify-content:center; align-items:center;">
-  <img src="https://img.shields.io/badge/%F0%9F%A7%91-Brain-ffb347?style=flat"/>
-  <img src="https://img.shields.io/badge/%F0%9F%91%8B-Hands-90ee90?style=flat"/>
-  <img src="https://img.shields.io/badge/-ChatGPT-00a67e?style=flat&logo=openai&logoColor=white"/>
-  <img src="https://img.shields.io/badge/-Claude-ffb300?style=flat&logo=anthropic&logoColor=white"/>
-  <img src="https://img.shields.io/badge/-Copilot-4C8EDA?style=flat&logo=githubcopilot&logoColor=white"/>
-  <img src="https://img.shields.io/badge/-Gemini-4285F4?style=flat&logo=google&logoColor=white"/>
-  <img src="https://img.shields.io/badge/-DeepSeek-00BFFF?style=flat&logo=deepnote&logoColor=white"/>
-  <img src="https://img.shields.io/badge/-Grok-ff69b4?style=flat&logo=bolt&logoColor=white"/>
-  <img src="https://img.shields.io/badge/-Cursor-4C8EDA?style=flat&logo=cursor&logoColor=white"/>
-  <img src="https://img.shields.io/badge/-Augment-00C49A?style=flat"/>
-  <img src="https://img.shields.io/badge/-Trae-FF9800?style=flat"/>
-  <img src="https://img.shields.io/badge/-etc-888?style=flat"/>
+  <img src="https://img.shields.io/badge/%F0%9F%A7%91-Brain-ffb347?style=flat-square"/>
+  <img src="https://img.shields.io/badge/%F0%9F%91%8B-Hands-90ee90?style=flat-square"/>
+  <img src="https://img.shields.io/badge/-ChatGPT-00a67e?style=flat-square&logo=openai&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-Claude-ffb300?style=flat-square&logo=anthropic&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-Copilot-4C8EDA?style=flat-square&logo=githubcopilot&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-Gemini-4285F4?style=flat-square&logo=google&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-DeepSeek-00BFFF?style=flat-square&logo=deepnote&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-Grok-ff69b4?style=flat-square&logo=bolt&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-Cursor-4C8EDA?style=flat-square&logo=cursor&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-Augment-00C49A?style=flat-square"/>
+  <img src="https://img.shields.io/badge/-Trae-FF9800?style=flat-square"/>
+  <img src="https://img.shields.io/badge/-etc-888?style=flat-square"/>
 </p>
 
 <p align="center" style="color:gray;font-style:italic;">
-  <strong>(Without AI superpowers, I can't do any of the following—these are just for show! 😜)</strong>
+  <strong>(...and without AI superpowers, these are the tools I pretend to know! 😜)</strong>
 </p>
 
-<p align="center" style="display:flex; flex-wrap:wrap; gap:6px; justify-content:center; align-items:center;">
-  <img src="https://img.shields.io/badge/-Java-007396?style=flat&logo=openjdk&logoColor=white">
-  <img src="https://img.shields.io/badge/-PHP-777bb4?style=flat&logo=php&logoColor=white">
-  <img src="https://img.shields.io/badge/-JavaScript-f7df1e?style=flat&logo=javascript&logoColor=black">
-  <img src="https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white">
-  <img src="https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white">
-  <img src="https://img.shields.io/badge/-Python-3776ab?style=flat&logo=python&logoColor=white">
-  <img src="https://img.shields.io/badge/-C++-00599c?style=flat&logo=c%2b%2b&logoColor=white">
-  <img src="https://img.shields.io/badge/-Go-00add8?style=flat&logo=go&logoColor=white">
-  <img src="https://img.shields.io/badge/-React-61dafb?style=flat&logo=react&logoColor=black">
-  <img src="https://img.shields.io/badge/-MySQL-4479a1?style=flat&logo=mysql&logoColor=white">
-  <img src="https://img.shields.io/badge/-Redis-DC382D?style=flat&logo=redis&logoColor=white">
-  <img src="https://img.shields.io/badge/-Git-f05032?style=flat&logo=git&logoColor=white">
-  <img src="https://img.shields.io/badge/-Linux-fcc624?style=flat&logo=linux&logoColor=black">
-  <img src="https://img.shields.io/badge/-etc-888?style=flat"/>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=java,php,js,html,css,python,c,cpp,go,react,mysql,redis,git,linux,docker,idea,vscode,figma&perline=9" />
+  </a>
 </p>
 
 ---
 
-## 🐍 Contribution Snake
+### <p align="center">📈 GitHub Stats & Activity</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Frank-Loong&show_icons=true&locale=en&theme=transparent&hide_border=true" alt="Stats" width="49%"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Frank-Loong&show_icons=true&locale=en&layout=compact&theme=transparent&hide_border=true" alt="Top Langs" width="49%"/>
+  <br>
+  <img src="https://streak-stats.demolab.com?user=Frank-Loong&theme=transparent&hide_border=true" alt="GitHub Streak" width="49%"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Frank-Loong&bg_color=ffffff00&color=8A2BE2&line=8A2BE2&point=444&area=true&hide_border=true" alt="Activity Graph" width="49%"/>
+</p>
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-trophy.vercel.app/?username=Frank-Loong&theme=darkhub&column=7&no-frame=true&no-bg=true" />
+    <source media="(prefers-color-scheme: light)" srcset="https://github-profile-trophy.vercel.app/?username=Frank-Loong&theme=flat&column=7&no-frame=true&no-bg=true" />
+    <img alt="GitHub Trophy" src="https://github-profile-trophy.vercel.app/?username=Frank-Loong&theme=flat&column=7&no-frame=true&no-bg=true" />
+  </picture>
+</p>
+
+---
+
+### <p align="center">🐍 Contribution Snake</p>
 
 <div align="center">
   <picture>
@@ -93,22 +97,16 @@
 
 ---
 
-## 📈 GitHub Stats
+### <p align="center">🌍 Let's Connect!</p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Frank-Loong&show_icons=true&locale=en" alt="Stats">
-  <img src="https://streak-stats.demolab.com?user=Frank-Loong" alt="GitHub Streak">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Frank-Loong&show_icons=true&locale=en&layout=compact" alt="Top Langs">
+  <img src="https://github-readme-spotify-gold.vercel.app/api/spotify?username=frank_loong&theme=compact" alt="Spotify Now Playing" width="350">
 </p>
 
----
-
-## 🏆 GitHub Trophies
+<p align="center">
+  <a href="https://revolvermaps.com/livestats/5p17p9hvlpr/"><img src="https://rf.revolvermaps.com/h/m/a/0/ff0000/128/0/5p17p9hvlpr.png" width="380" height="216" alt="Live Stats" style="border:0;"></a>
+</p>
 
 <p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-trophy.vercel.app/?username=Frank-Loong&theme=darkhub&column=7&no-frame=true" />
-    <source media="(prefers-color-scheme: light)" srcset="https://github-profile-trophy.vercel.app/?username=Frank-Loong&theme=flat&column=7&no-frame=true" />
-    <img alt="GitHub Trophy" src="https://github-profile-trophy.vercel.app/?username=Frank-Loong&theme=flat&column=7&no-frame=true" />
-  </picture>
+  <img src="https://raw.githubusercontent.com/Frank-Loong/Frank-Loong/main/assets/contrib-globe.svg" alt="3D Contributor Globe" width="600">
 </p>
