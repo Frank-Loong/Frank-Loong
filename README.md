@@ -108,5 +108,5 @@
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Frank-Loong/Frank-Loong/main/assets/contrib-globe.svg" alt="3D Contributor Globe" width="600">
+  <img src="https://raw.githubusercontent.com/Frank-Loong/Frank-Loong/main/output/contrib-globe.svg" alt="3D Contributor Globe" width="600">
 </p>
