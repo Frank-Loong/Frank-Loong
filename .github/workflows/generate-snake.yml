@@ -1,35 +1,45 @@
-name: Generate Snake
+# .github/workflows/generate-snake.yml
+name: Generate Contribution Snake
 
 on:
   schedule:
-    - cron: "0 0 * * *" # 每日 00:00 UTC 运行（北京时间 08:00）
+    # 每天在 00:00 UTC 运行 (北京时间早上 8 点)
+    - cron: "0 0 * * *"
+  # 允许手动触发
   workflow_dispatch:
 
 jobs:
   build:
     runs-on: ubuntu-latest
-
     steps:
+      # 1. 检出你的仓库代码
+      # 使用 v4 版本，这是当前的推荐版本
       - name: Checkout repository
-        uses: actions/checkout@v3
+        uses: actions/checkout@v4
 
-      - name: Generate snake SVG
+      # 2. 生成贪吃蛇 SVG 文件
+      # - 使用 ${{ github.repository_owner }} 变量，使其更具通用性
+      # - 直接将文件输出到目标目录 output/
+      - name: Generate snake animation
         uses: Platane/snk/svg-only@v3
         with:
-          github_user_name: Frank-Loong
+          github_user_name: ${{ github.repository_owner }}
           outputs: |
             output/github-snake.svg
             output/github-snake-dark.svg?palette=github-dark
 
-      - name: Commit snake files
-        run: |
-          git config --local user.email "action@github.com"
-          git config --local user.name  "github-actions[bot]"
-          git add output/github-snake*.svg
-          git commit -m "chore: generate snake contribution graph" || echo "No changes to commit"
-
-      - name: Push changes
-        uses: ad-m/github-push-action@v0.6.0
+      # 3. 自动提交和推送文件
+      # - 使用 stefanzweifel/git-auto-commit-action，这是一个专门用于此场景的 Action
+      # - 它会自动处理暂存(add)、提交(commit)和推送(push)，无需手动编写 git 命令
+      # - 只有当文件发生变化时，它才会创建提交，自带了 "No changes to commit" 的逻辑
+      - name: Push snake animation to the repo
+        uses: stefanzweifel/git-auto-commit-action@v5
         with:
-          github_token: ${{ secrets.GITHUB_TOKEN }}
-          branch: main 
+          commit_message: "chore(build): generate contribution snake"
+          # 指定要提交的文件
+          file_pattern: output/github-snake*.svg
+          # 提交到当前仓库
+          repository: .
+          # 配置提交者信息
+          commit_user_name: github-actions[bot]
+          commit_user_email: 41898282+github-actions[bot]@users.noreply.github.com
