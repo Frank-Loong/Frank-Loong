@@ -37,7 +37,7 @@
 
 ### <p align="center">🛠️ Tech Stack & Tools</p>
 
-<p align="center"><em>My AI-powered creative toolkit...</em></p>
+<p align="center"><em>My Vibe Coding creative toolkit...</em></p>
 <p align="center" style="display:flex; flex-wrap:wrap; gap:6px; justify-content:center; align-items:center;">
   <!-- Symbolic Icons -->
   <img src="https://img.shields.io/badge/%F0%9F%A7%91-Brain-ffb347?style=flat-square"/>
