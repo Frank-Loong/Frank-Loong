@@ -13,12 +13,14 @@ jobs:
       - name: Checkout repository
         uses: actions/checkout@v4
 
-      # 步骤一：生成地球，并指定输出到 output 目录
+      # 步骤一：生成地球
       - name: Generate Globe
-        uses: g-rath/contributors-list@v1
+        # --- FIX ---
+        # 1. Corrected 'g-rath' to 'G-Rath'
+        # 2. Updated from v1 to v2 for the latest version
+        uses: G-Rath/contributors-list@v2
         with:
-          # --- 修改点 1 ---
-          # 将路径从 /assets/ 改为 /output/
+          # 指定输出到 output 目录
           path: /output/contrib-globe.svg
           owner: ${{ github.repository_owner }}
           repo: ${{ github.repository_owner }}
@@ -26,13 +28,12 @@ jobs:
           bg_color: none
           font_color: 8A2BE2
 
-      # 步骤二：自动提交，并指定要提交的文件
+      # 步骤二：自动提交
       - name: Commit and Push Globe
         uses: stefanzweifel/git-auto-commit-action@v5
         with:
           commit_message: "chore(build): update contributor globe"
-          # --- 修改点 2 ---
-          # 将文件匹配模式从 assets/ 改为 output/
           file_pattern: output/contrib-globe.svg
           commit_user_name: github-actions[bot]
+          commit_user_email: 41898282+github-actions[bot]@users.noreply.github.com          commit_user_name: github-actions[bot]
           commit_user_email: 41898282+github-actions[bot]@users.noreply.github.com
