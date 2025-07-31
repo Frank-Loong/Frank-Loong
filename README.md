@@ -1,17 +1,29 @@
+<a name="top"></a>
+
 <h1 align="center">Hi, I'm Frank-Loong 👋</h1>
 
 <p align="center">
-  <a href="https://frankloong.com" target="_blank"><img src="https://img.shields.io/badge/Blog-Website-ff8800?style=for-the-badge&logo=wordpress&logoColor=white"></a>
-  <a href="mailto:frankloong@qq.com"><img src="https://img.shields.io/badge/Mail-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
-  <img src="https://komarev.com/ghpvc/?username=Frank-Loong&style=for-the-badge&color=8A2BE2" alt="profile views" />
+  <a href="https://frankloong.com" target="_blank">
+    <img src="https://img.shields.io/badge/Blog-Website-ff8800?style=flat&logo=wordpress&logoColor=white">
+  </a>
+  <a href="mailto:frankloong@qq.com">
+    <img src="https://img.shields.io/badge/Mail-Contact-D14836?style=flat&logo=gmail&logoColor=white">
+  </a>
+  <a href="https://t.me/frankkloong" target="_blank">
+    <img src="https://img.shields.io/badge/Telegram-frankkloong-2CA5E0?style=flat&logo=telegram&logoColor=white">
+  </a>
+  <img src="https://komarev.com/ghpvc/?username=Frank-Loong&style=flat&color=8A2BE2" alt="profile views" />
 </p>
 
-> ✨ AI, tech & internet enthusiast · ⛰️ Perfectionist · 🏆 Open-source advocate  
-> I enjoy building fun small tools  with **AI + code**, documenting my experiments, and contributing to the open-source community.
+<p align="center">
+  ✨ AI, tech & internet enthusiast · ⛰️ Perfectionist · 🏆 Open-source advocate  
+  <br>
+  I enjoy building fun small tools with AI + code, documenting my experiments, and contributing to the open-source community.
+</p>
 
 ---
 
-## 🙋‍♂️ About&nbsp;Me
+## 🙋‍♂️ About Me
 
 - 🔭 Passionate about open-source & automation; always tinkering with interesting side projects  
 - 🌱 Currently diving into **Control Engineering / Python / Java / Go / C / C++ / Linux, etc.**  
@@ -20,16 +32,16 @@
 
 ---
 
-## 🚀 Featured&nbsp;Projects
+## 🚀 Featured Projects
 
-| Project | Description | Tech&nbsp;Stack | Stars |
-| ------- | ----------- | ---------- | ----- |
-| [Notion-to-WordPress](https://github.com/Frank-Loong/Notion-to-WordPress) | 📝 Effortlessly sync Notion pages to WordPress posts with one click | PHP · JS · Notion API · WordPress | ![GitHub Repo stars](https://img.shields.io/github/stars/Frank-Loong/Notion-to-WordPress?style=social) |
-| [Footprint-Map](https://github.com/Frank-Loong/Footprint-Map) | 🌏 Amap (Gaode) API footprint plugin that visualises every city you've visited | PHP · JS · WordPress | ![GitHub Repo stars](https://img.shields.io/github/stars/Frank-Loong/Footprint-Map?style=social) |
+| Project                                                                                                                      | Description                                                   | Tech Stack                         | Stars                                                                                                                                 |
+| ---------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------- | ---------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------- |
+| [Notion-to-WordPress](https://github.com/Frank-Loong/Notion-to-WordPress)                                                     | 📝 Effortlessly sync Notion pages to WordPress posts with one click | PHP · JS · Notion API · WordPress  | ![GitHub Repo stars](https://img.shields.io/github/stars/Frank-Loong/Notion-to-WordPress?style=social)                                 |
+| [Footprint-Map](https://github.com/Frank-Loong/Footprint-Map)                                                                 | 🌏 Amap (Gaode) API footprint plugin that visualises every city you've visited | PHP · JS · WordPress              | ![GitHub Repo stars](https://img.shields.io/github/stars/Frank-Loong/Footprint-Map?style=social)                                        |
 
 ---
 
-## 🛠️ Tech&nbsp;Stack&nbsp;&amp;&nbsp;Tools
+## 🛠️ Tech Stack & Tools
 
 <p align="center" style="display:flex; flex-wrap:wrap; gap:6px; justify-content:center; align-items:center;">
   <img src="https://img.shields.io/badge/%F0%9F%A7%91-Brain-ffb347?style=flat"/>
@@ -47,7 +59,7 @@
 </p>
 
 <p align="center" style="color:gray;font-style:italic;">
-  <b>(Without AI superpowers, I can't do any of the following—these are just for show! 😜)</b>
+  <strong>(Without AI superpowers, I can't do any of the following—these are just for show! 😜)</strong>
 </p>
 
 <p align="center" style="display:flex; flex-wrap:wrap; gap:6px; justify-content:center; align-items:center;">
@@ -81,17 +93,17 @@
 
 ---
 
-## 📈 GitHub&nbsp;Stats
+## 📈 GitHub Stats
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=Frank-Loong&show_icons=true&locale=en&layout=compact" alt="Frank-Loong" />
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Frank-Loong&show_icons=true&locale=en" alt="Stats">
+  <img src="https://streak-stats.demolab.com?user=Frank-Loong" alt="GitHub Streak">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Frank-Loong&show_icons=true&locale=en&layout=compact" alt="Top Langs">
+</p>
 
-<img src="https://github-readme-stats.vercel.app/api?username=Frank-Loong&show_icons=true&locale=en" alt="Frank-Loong" />
-
-<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=Frank-Loong" alt="GitHub Streak" /></a>
-  
 ---
 
-## 🏆 GitHub&nbsp;Trophies
+## 🏆 GitHub Trophies
 
 <p align="center">
   <picture>
