@@ -2,46 +2,37 @@
 name: Generate Contributor Globe
 
 on:
-  # 1. 定时运行：每12小时运行一次
   schedule:
     - cron: "0 */12 * * *"
-  # 2. 手动运行：允许你在 Actions 页面手动触发
   workflow_dispatch:
 
 jobs:
   build:
     runs-on: ubuntu-latest
     steps:
-      # 步骤一：检出你的仓库代码，这样 Action 才能访问你的仓库
       - name: Checkout repository
         uses: actions/checkout@v4
 
-      # 步骤二：生成 3D 贡献地球
-      # 使用 g-rath/contributors-list 这个现成的 Action 来生成 SVG 文件
+      # 步骤一：生成地球，并指定输出到 output 目录
       - name: Generate Globe
         uses: g-rath/contributors-list@v1
         with:
-          # 指定生成文件的存放路径，必须和你 README.md 中的链接一致
-          path: /assets/contrib-globe.svg
-          # 你的 GitHub 用户名
+          # --- 修改点 1 ---
+          # 将路径从 /assets/ 改为 /output/
+          path: /output/contrib-globe.svg
           owner: ${{ github.repository_owner }}
-          # 你的个人同名仓库
           repo: ${{ github.repository_owner }}
-          # 图片大小
           image_size: 40
-          # 背景设为透明
           bg_color: none
-          # 你可以自定义字体颜色来匹配你的主页风格
           font_color: 8A2BE2
 
-      # 步骤三：自动提交生成的文件
-      # 使用 stefanzweifel/git-auto-commit-action 自动提交变更
+      # 步骤二：自动提交，并指定要提交的文件
       - name: Commit and Push Globe
         uses: stefanzweifel/git-auto-commit-action@v5
         with:
           commit_message: "chore(build): update contributor globe"
-          # 告诉 Action 需要提交哪个文件
-          file_pattern: assets/contrib-globe.svg
-          # 提交者信息
+          # --- 修改点 2 ---
+          # 将文件匹配模式从 assets/ 改为 output/
+          file_pattern: output/contrib-globe.svg
           commit_user_name: github-actions[bot]
           commit_user_email: 41898282+github-actions[bot]@users.noreply.github.com
